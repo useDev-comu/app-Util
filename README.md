@@ -22,7 +22,7 @@ Este projeto foi desenvolvido utilizando:
 ### **1️⃣ Clonar o Repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/limpalixeira.git
+git clone https://github.com/seu-usuario/app-Util.git
 cd limpalixeira
 ```
 
@@ -64,7 +64,7 @@ Adicionar ao Menu de Contexto via Editor de Registro.
 ## 🔽 Baixe o Executável
 
 Acesse a última versão:
-[⬇️ Download](https://github.com/useDev-comu/appClean/raw/main/dist/limpar_lixeira.exe)
+[⬇️ Download](https://github.com/useDev-comu/app-Util/raw/main/dist/limpar_lixeira.exe)
 
 ## 🎯 Contribuições
 
